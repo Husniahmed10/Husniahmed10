@@ -36,7 +36,9 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/numpy-150458?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />

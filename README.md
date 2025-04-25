@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Husni Ahamed</h1>
-<h3 align="center">AI Undergraduate | AI/ML Developer  </h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=AI/ML+Developer;Student+at+University+of+Moratuwa;MlOps+Enthusiast)](https://git.io/typing-svg)
 <h3 align="center">Hello! I’m Husni Ahamed, an AI undergraduate, and AI/ML Developer. With a passion for solving complex problems through data, I am dedicated to exploring the world of Artificial Intelligence and machine learning. Armed with a strong foundation in Artificial Intelligence and Data Science, I’m excited to build innovative solutions that leverage cutting-edge technologies in AI and ML to create meaningful real-world impacts. I’m driven by the challenge of transforming data into valuable insights that guide informed decision-making and foster innovation.
 </h3>
 

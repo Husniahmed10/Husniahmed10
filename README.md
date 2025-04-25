@@ -2,7 +2,7 @@
 <h3 align="center">Student at University of Moratuwa | AI/ML Developer  </h3>
 <h3 align="center">Hello! I’m Husni Ahamed, an undergraduate, and AI/ML Developer. With a passion for solving complex problems through data, I am dedicated to exploring the world of Artificial Intelligence and machine learning. Armed with a strong foundation in Artificial Intelligence and Data Science, I’m excited to build innovative solutions that leverage cutting-edge technologies in AI and ML to create meaningful real-world impacts. I’m driven by the challenge of transforming data into valuable insights that guide informed decision-making and foster innovation.
 </h3>
-📫 Reach me at ### husniahmed07@gmail.com
+📫 Reach me at
 <br>
 <br>
  <a href="https://www.linkedin.com/in/husni-ahamed-a0b9a81bb"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  /><a/>

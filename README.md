@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/rstudioide/75AADB" height="40" alt="r logo"  />
+  <img width="12" />
   
 </div>
 

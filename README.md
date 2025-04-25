@@ -1,5 +1,5 @@
 <div align="center">
-# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> Hey! I'm Husni Ahamed
+#<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> Hey! I'm Husni Ahamed
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=AI/ML+Developer;Student+at+University+of+Moratuwa;MlOps+Enthusiast)](https://git.io/typing-svg)
 

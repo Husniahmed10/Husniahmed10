@@ -47,6 +47,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="cv logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/keras" height="40" alt="rstudio logo"  />
+  <img width="12" />
 
 </div>
 

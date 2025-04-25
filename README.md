@@ -2,6 +2,11 @@
 <h3 align="center">AI Undergraduate | AI/ML Developer  </h3>
 <h3 align="center">Hello! I’m Husni Ahamed, an AI undergraduate, and AI/ML Developer. With a passion for solving complex problems through data, I am dedicated to exploring the world of Artificial Intelligence and machine learning. Armed with a strong foundation in Artificial Intelligence and Data Science, I’m excited to build innovative solutions that leverage cutting-edge technologies in AI and ML to create meaningful real-world impacts. I’m driven by the challenge of transforming data into valuable insights that guide informed decision-making and foster innovation.
 </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Husniahmed10&label=Profile%20views&color=0e75b6&style=flat" alt="Husni Ahamed" />
+</p>
+
 📫 Reach me at
 <br>
 <br>

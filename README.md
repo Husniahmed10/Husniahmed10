@@ -5,7 +5,7 @@
 📫 Reach me at **husniahmed07@gmail.com**
 <br>
 <br>
- <a href="www.linkedin.com/in/husni-ahamed-a0b9a81bb"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  /><a/>
+ <a href="https://www.linkedin.com/in/husni-ahamed-a0b9a81bb"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  /><a/>
  
 
 ###

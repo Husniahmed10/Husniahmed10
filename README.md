@@ -28,8 +28,6 @@ I specialize in <strong>Generative AI</strong>, <strong>RAG (Retrieval-Augmented
 
 <div align="center">
 
----
-
 ## 🚀 Tech Stack & Skills
 
 ### 💻 Programming Languages

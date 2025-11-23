@@ -1,4 +1,122 @@
+---
+
+## 📊 Advanced GitHub Analytics Dashboard
+
 <div align="center">
+  
+### 📈 Overview Stats
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Husniahmed10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&card_width=400" height="180" alt="stats graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Husniahmed10&theme=tokyonight&hide_border=true" height="180" alt="streak graph"  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Husniahmed10&theme=tokyonight" width="100%" alt="detailed summary" />
+
+</div>
+
+<div align="center">
+
+### 💻 Language & Activity Breakdown
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=husniahmed10&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Husniahmed10&theme=tokyonight" height="200" alt="commit languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Husniahmed10&theme=tokyonight" height="200" alt="repos per language" />
+
+</div>
+
+<div align="center">
+
+### ⏰ Productivity & Commit Patterns
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Husniahmed10&theme=tokyonight" width="48%" alt="productive time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Husniahmed10&theme=tokyonight" width="48%" alt="commit stats" />
+
+</div>
+
+<div align="center">
+
+### 📉 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Husniahmed10&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Graph&height=400" width="100%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies & Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Husniahmed10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=-C,-?" alt="trophies" />
+</div>
+
+---
+
+## 🎯 Pinned Metrics
+
+<div align="center">
+
+| 📊 **Metric** | 📈 **Value** |
+|:---:|:---:|
+| 🔥 **Total Contributions** | ![](https://img.shields.io/badge/dynamic/json?color=orange&label=Total&query=contributions&url=https://github-contributions.vercel.app/api/v1/Husniahmed10&style=for-the-badge) |
+| ⭐ **Total Stars Earned** | ![](https://img.shields.io/github/stars/Husniahmed10?style=for-the-badge&color=yellow) |
+| 👥 **Followers** | ![](https://img.shields.io/github/followers/Husniahmed10?style=for-the-badge&color=blue) |
+| 📦 **Public Repositories** | ![](https://img.shields.io/badge/dynamic/json?color=green&label=Repos&query=public_repos&url=https://api.github.com/users/Husniahmed10&style=for-the-badge) |
+
+</div>
+
+---
+
+## 📈 Advanced Contribution Stats
+
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=Husniahmed10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+### 🔥 Contribution Heatmap
+
+<img src="https://ghchart.rshah.org/36BCF7/Husniahmed10" width="100%" alt="contribution heatmap" />
+
+</div>
+
+---
+
+## 🐍 Watch the Snake Eat My Contributions!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Husniahmed10/Husniahmed10/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+## 🎨 Code Time & Wakatime Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-Loading...-blue?style=for-the-badge)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-Loading...-blue?style=for-the-badge)
+
+**🐱 My GitHub Data** 
+
+> 📦 Building AI Solutions with Passion
+> 
+> 🏆 Committed to Excellence in AI/ML
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 🎭 GitHub Joke of the Day
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
+---<div align="center">
   
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> Hey! I'm Husni Ahamed
 
@@ -191,13 +309,36 @@ I specialize in <strong>Generative AI</strong>, <strong>RAG (Retrieval-Augmented
 
 ---
 
-## 💡 Featured Projects
+## 📈 Contribution Stats
+
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=Husniahmed10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 🐍 Watch the Snake Eat My Contributions!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Husniahmed10/Husniahmed10/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
 
 <div align="center">
 
-[![RAG System](https://github-readme-stats.vercel.app/api/pin/?username=Husniahmed10&repo=your-rag-project&theme=tokyonight&hide_border=true)](#)
-[![Agentic AI](https://github-readme-stats.vercel.app/api/pin/?username=Husniahmed10&repo=your-agent-project&theme=tokyonight&hide_border=true)](#)
+## 💬 Random Dev Quote
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Husniahmed10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="trophies" />
 </div>
 
 ---
@@ -217,40 +358,6 @@ I specialize in <strong>Generative AI</strong>, <strong>RAG (Retrieval-Augmented
 <div align="center">
   <img src="https://raw.githubusercontent.com/Husniahmed10/Husniahmed10/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
-
-<details>
-<summary>📝 To generate this snake animation:</summary>
-
-Add this GitHub Action workflow (`.github/workflows/snake.yml`):
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        with:
-          github_user_name: Husniahmed10
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 

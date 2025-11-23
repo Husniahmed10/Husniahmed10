@@ -1,122 +1,4 @@
----
-
-## 📊 Advanced GitHub Analytics Dashboard
-
 <div align="center">
-  
-### 📈 Overview Stats
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Husniahmed10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&card_width=400" height="180" alt="stats graph"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Husniahmed10&theme=tokyonight&hide_border=true" height="180" alt="streak graph"  />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Husniahmed10&theme=tokyonight" width="100%" alt="detailed summary" />
-
-</div>
-
-<div align="center">
-
-### 💻 Language & Activity Breakdown
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=husniahmed10&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Husniahmed10&theme=tokyonight" height="200" alt="commit languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Husniahmed10&theme=tokyonight" height="200" alt="repos per language" />
-
-</div>
-
-<div align="center">
-
-### ⏰ Productivity & Commit Patterns
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Husniahmed10&theme=tokyonight" width="48%" alt="productive time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Husniahmed10&theme=tokyonight" width="48%" alt="commit stats" />
-
-</div>
-
-<div align="center">
-
-### 📉 Contribution Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Husniahmed10&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Graph&height=400" width="100%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Husniahmed10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=-C,-?" alt="trophies" />
-</div>
-
----
-
-## 🎯 Pinned Metrics
-
-<div align="center">
-
-| 📊 **Metric** | 📈 **Value** |
-|:---:|:---:|
-| 🔥 **Total Contributions** | ![](https://img.shields.io/badge/dynamic/json?color=orange&label=Total&query=contributions&url=https://github-contributions.vercel.app/api/v1/Husniahmed10&style=for-the-badge) |
-| ⭐ **Total Stars Earned** | ![](https://img.shields.io/github/stars/Husniahmed10?style=for-the-badge&color=yellow) |
-| 👥 **Followers** | ![](https://img.shields.io/github/followers/Husniahmed10?style=for-the-badge&color=blue) |
-| 📦 **Public Repositories** | ![](https://img.shields.io/badge/dynamic/json?color=green&label=Repos&query=public_repos&url=https://api.github.com/users/Husniahmed10&style=for-the-badge) |
-
-</div>
-
----
-
-## 📈 Advanced Contribution Stats
-
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=Husniahmed10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 🔥 Contribution Heatmap
-
-<img src="https://ghchart.rshah.org/36BCF7/Husniahmed10" width="100%" alt="contribution heatmap" />
-
-</div>
-
----
-
-## 🐍 Watch the Snake Eat My Contributions!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Husniahmed10/Husniahmed10/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
----
-
-## 🎨 Code Time & Wakatime Stats
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-Loading...-blue?style=for-the-badge)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-Loading...-blue?style=for-the-badge)
-
-**🐱 My GitHub Data** 
-
-> 📦 Building AI Solutions with Passion
-> 
-> 🏆 Committed to Excellence in AI/ML
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<div align="center">
-
-## 💬 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 🎭 GitHub Joke of the Day
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-
----<div align="center">
   
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> Hey! I'm Husni Ahamed
 
@@ -179,6 +61,8 @@ I specialize in <strong>Generative AI</strong>, <strong>RAG (Retrieval-Augmented
   <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="typescript"  />
 </div>
 
+###
+
 ### 🤖 AI / ML / Deep Learning
 
 <div align="left">
@@ -197,6 +81,8 @@ I specialize in <strong>Generative AI</strong>, <strong>RAG (Retrieval-Augmented
   <img src="https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="50" alt="numpy"  />
 </div>
 
+###
+
 ### 🧠 GenAI, LLMs & Agentic AI
 
 <div align="left">
@@ -213,7 +99,11 @@ I specialize in <strong>Generative AI</strong>, <strong>RAG (Retrieval-Augmented
   <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?logo=ai&logoColor=white&style=for-the-badge" height="50" alt="llamaindex"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/RAG-10B981?logo=ai&logoColor=white&style=for-the-badge" height="50" alt="rag"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=white&style=for-the-badge" height="50" alt="anthropic"  />
 </div>
+
+###
 
 ### 🗄️ Vector Databases & Data Stores
 
@@ -231,7 +121,11 @@ I specialize in <strong>Generative AI</strong>, <strong>RAG (Retrieval-Augmented
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis"  />
 </div>
+
+###
 
 ### ⚙️ MLOps & Deployment
 
@@ -249,7 +143,11 @@ I specialize in <strong>Generative AI</strong>, <strong>RAG (Retrieval-Augmented
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="gcp"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure"  />
 </div>
+
+###
 
 ### 🌐 Web Frameworks & APIs
 
@@ -265,7 +163,11 @@ I specialize in <strong>Generative AI</strong>, <strong>RAG (Retrieval-Augmented
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs"  />
 </div>
+
+###
 
 ### 🛠️ Development Tools
 
@@ -283,33 +185,85 @@ I specialize in <strong>Generative AI</strong>, <strong>RAG (Retrieval-Augmented
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rstudioide/75AADB" height="50" alt="rstudio"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="50" alt="vim"  />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Advanced GitHub Analytics Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Husniahmed10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&card_width=400" height="180" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husniahmed10&theme=tokyonight&hide_border=true" height="180" alt="streak graph"  />
+  
+### 📈 Overview Stats & Streak
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Husniahmed10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&card_width=400" height="180" alt="stats graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Husniahmed10&theme=tokyonight&hide_border=true" height="180" alt="streak graph"  />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=husniahmed10&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="180" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Husniahmed10&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Graph" height="300" width="100%" />
+
+### 📊 Detailed Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Husniahmed10&theme=tokyonight" width="100%" alt="detailed summary" />
+
+</div>
+
+<div align="center">
+
+### 💻 Language & Repository Distribution
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=husniahmed10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Husniahmed10&theme=tokyonight" height="200" alt="commit languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Husniahmed10&theme=tokyonight" height="200" alt="repos per language" />
+
+</div>
+
+<div align="center">
+
+### ⏰ Productivity Time & Commit Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Husniahmed10&theme=tokyonight&utcOffset=5.5" width="48%" alt="productive time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Husniahmed10&theme=tokyonight" width="48%" alt="commit stats" />
+
+</div>
+
+<div align="center">
+
+### 📉 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Husniahmed10&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Graph&height=400" width="100%" />
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Husniahmed10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Husniahmed10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=-C,-?" alt="trophies" />
 </div>
 
 ---
 
-## 📈 Contribution Stats
+## 🎯 Live GitHub Metrics
+
+<div align="center">
+
+| 📊 **Metric** | 📈 **Value** |
+|:---:|:---:|
+| 🔥 **Total Contributions (2024)** | ![](https://img.shields.io/badge/dynamic/json?color=orange&label=Contributions&query=$.totalContributions&url=https://github-contributions-api.jogruber.de/v4/Husniahmed10?y=2024&style=for-the-badge) |
+| ⭐ **Total Stars Earned** | ![](https://img.shields.io/github/stars/Husniahmed10?style=for-the-badge&color=yellow&label=Stars) |
+| 👥 **Followers** | ![](https://img.shields.io/github/followers/Husniahmed10?style=for-the-badge&color=blue&label=Followers) |
+| 📁 **Public Repos** | ![](https://img.shields.io/badge/dynamic/json?color=green&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Husniahmed10&style=for-the-badge) |
+| 💾 **Total Code Size** | ![](https://img.shields.io/github/languages/code-size/Husniahmed10/Husniahmed10?style=for-the-badge&color=purple&label=Code%20Size) |
+
+</div>
+
+---
+
+## 📈 Detailed Contribution Analytics
 
 <div align="center">
   
@@ -317,57 +271,65 @@ I specialize in <strong>Generative AI</strong>, <strong>RAG (Retrieval-Augmented
 
 </div>
 
+<div align="center">
+
+### 🔥 Yearly Contribution Heatmap
+
+<img src="https://ghchart.rshah.org/36BCF7/Husniahmed10" width="100%" alt="contribution heatmap" />
+
+</div>
+
 ---
 
-## 🐍 Watch the Snake Eat My Contributions!
+## 🎨 Coding Activity & Insights
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Husniahmed10/Husniahmed10/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-Building%20AI%20Solutions-blue?style=for-the-badge)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-Check%20Above-blue?style=for-the-badge)
+
+**🐱 My GitHub Data** 
+
+> 📦 Building AI Solutions with LangChain & LangGraph
+> 
+> 🏆 Creating RAG Systems with Vector Databases
+> 
+> 🚀 Deploying ML Models with MLOps Best Practices
+<!--END_SECTION:waka-->
+
 </div>
 
 ---
 
 <div align="center">
 
-## 💬 Random Dev Quote
+## 💬 Daily Dev Wisdom
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Husniahmed10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="trophies" />
-</div>
-
----
-
-## 📈 Contribution Stats
-
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=Husniahmed10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## 🐍 Watch the Snake Eat My Contributions!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Husniahmed10/Husniahmed10/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
 
 <div align="center">
 
-## 💬 Random Dev Quote
+## 🎭 GitHub Joke of the Day
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
+</div>
 
 ---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husni-ahamed-a0b9a81bb)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Husniahmed10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ### ✨ "Building the future, one AI agent at a time" ✨
 
@@ -378,5 +340,11 @@ I specialize in <strong>Generative AI</strong>, <strong>RAG (Retrieval-Augmented
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Husniahmed10/count.svg?" alt="Visitor Count" />
+  
+**Last Updated:** ![](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=$.date&url=https://api.github.com/users/Husniahmed10&style=flat-square&prefix=Last%20Activity%20)
+
+<img src="https://profile-counter.glitch.me/Husniahmed10/count.svg?" alt="Visitor Count" />
+
+**Thanks for visiting! 🚀 Let's build something amazing together! 🤖**
+
 </div>

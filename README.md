@@ -28,19 +28,6 @@ I specialize in <strong>Generative AI</strong>, <strong>RAG (Retrieval-Augmented
 
 <div align="center">
 
-## 🎯 Current Focus
-
-</div>
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  🤖 Building Agentic AI Systems with LangGraph & CrewAI    │
-│  🔗 Developing RAG Applications with Vector Databases       │
-│  🧠 Fine-tuning LLMs for Domain-Specific Tasks             │
-│  ⚡ Implementing MLOps Pipelines for Production AI          │
-└─────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ## 🚀 Tech Stack & Skills

@@ -33,10 +33,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/husni-ahamed-a0b9a81bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husni ahamed" height="30" width="40" /></a>
 <a href="https://github.com/Husniahmed10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="husniahmed10" height="30" width="40" /></a>
-</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Husniahmed10&show_icons=true&theme=tokyonight&hide_border=true" alt="Husni's GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=Husniahmed10&theme=tokyonight&bg_color=00000000&hide_border=true" alt="snake-contribution-graph"/>
-</p>

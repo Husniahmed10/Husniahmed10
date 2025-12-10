@@ -1,43 +1,60 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Husni Ahamed</h1>
+<h3 align="center">🤖 AI/ML Developer & Agentic AI Specialist</h3>
 
-# Hi there! I'm Husni Ahamed 👋
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Husniahmed10&label=Profile%20views&color=0e75b6&style=flat" alt="husniahmed10" /> 
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;GenAI+%26+RAG+Specialist;AI+Undergraduate)](https://git.io/typing-svg)
+<p align="left"> 
+  🔭 I’m currently working on <b>Agentic AI Systems & RAG Pipelines</b>.
+</p>
 
-<br/>
+<p align="left"> 
+  🌱 I’m currently learning <b>Advanced LLM Orchestration & MLOps</b>.
+</p>
 
-**AI Undergraduate & Developer** specializing in **Generative AI**, **RAG**, and **Agentic Systems**.  
-I build autonomous agents and intelligent applications that solve real-world problems.
+<p align="left"> 
+  👯 I’m looking to collaborate on <b>Open Source GenAI Projects</b>.
+</p>
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husni-ahamed-a0b9a81bb)
-[![](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Husniahmed10)
+<p align="left"> 
+  💬 Ask me about <b>Python, LangChain, CrewAI, and Vector DBs</b>.
+</p>
 
-</div>
+<p align="left"> 
+  📫 How to reach me <b>[Your Email Here]</b>
+</p>
 
----
+<p align="left"> 
+  ⚡ Fun fact <b>I build agents that build things.</b>
+</p>
 
-### 🚀 Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/husni-ahamed-a0b9a81bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husni ahamed" height="30" width="40" /></a>
+<a href="https://github.com/Husniahmed10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="husniahmed10" height="30" width="40" /></a>
+</p>
 
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  <a href="https://python.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> </a> 
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/> </a> 
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+</p>
 
-| **Core & AI** | **GenAI & LLMs** | **Data & Ops** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,js,pytorch,tensorflow,sklearn,opencv" /> | <img src="https://skillicons.dev/icons?i=langchain,openai,huggingface" /> <br/> _(LlamaIndex, CrewAI, RAG)_ | <img src="https://skillicons.dev/icons?i=pinecone,mongodb,postgres,docker,git,aws" /> |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Husniahmed10&show_icons=true&theme=tokyonight&hide_border=true" alt="Husni's GitHub stats" />
+</p>
 
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Husni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Husniahmed10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Husniahmed10&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Husniahmed10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://github-readme-snake.vercel.app/api?username=Husniahmed10&theme=tokyonight&bg_color=00000000&hide_border=true" alt="snake-contribution-graph"/>
+</p>

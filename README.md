@@ -22,7 +22,7 @@
 </p>
 
 <p align="left"> 
-  📫 How to reach me <b>[Your Email Here]</b>
+  📫 How to reach me <b>husniahmed07@gmail.com</b>
 </p>
 
 <p align="left"> 

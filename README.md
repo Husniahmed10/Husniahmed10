@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Husni Ahamed</h1>
-<h3 align="center">🤖 AI/ML Developer & Agentic AI Specialist</h3>
+<h3 align="center">🤖 AI/ML Developer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Husniahmed10&label=Profile%20views&color=0e75b6&style=flat" alt="husniahmed10" /> 
